@@ -1,0 +1,1 @@
+export const APIURL='http://localhost:5000'         //localhost backendnya, gak mesti 5000

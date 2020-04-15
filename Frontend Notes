@@ -1,0 +1,9 @@
+useReducer --> bentuknya mirp kaya redux tapi sebenarnya untuk State dengan kata lain state bentuk reducer. untuk react hoox buat ubah statenya lebih bagus pake useReducer
+
+
+
+Pertanyaan:
+???onChange={(e)=>dispatch({type:'username',payload:e.target.value})}  --> cara bacanya gimana? ngambil valuenya gimana? file App.js bagian input username & password???
+
+???bedanya {addDataClick} sama {addDataClick()}???
+???this.setState({[e.target.name]:e.target.value}) ini fungsi onchange pada inputan di register, kenapa e.target.name itu array?
